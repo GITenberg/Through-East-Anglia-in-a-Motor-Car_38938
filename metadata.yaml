@@ -1,0 +1,37 @@
+_repo: Through-East-Anglia-in-a-Motor-Car_38938
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Southgate, Frank
+    birthdate: 1872
+    deathdate: 1916
+    gutenberg_agent_id: '39023'
+    url: http://www.gutenberg.org/2009/agents/39023
+covers:
+- cover_type: archival
+  image_path: 38938-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vincent, James Edmund
+    alias: Vincent, J. E. (James Edmund)
+    birthdate: 1857
+    deathdate: 1909
+    gutenberg_agent_id: '39726'
+    url: http://www.gutenberg.org/2009/agents/39726
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38938'
+  lccn: 08020146
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suffolk (England) -- Description and travel'
+- !lcsh 'Norfolk (England) -- Description and travel'
+- !lcc 'DA'
+title: Through East Anglia in a Motor Car
+url: http://www.gutenberg.org/ebooks/38938
