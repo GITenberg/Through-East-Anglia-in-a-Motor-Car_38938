@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '39726'
     url: http://www.gutenberg.org/2009/agents/39726
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38938#Through-East-Anglia-in-a-Motor-Car
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-02-20'
 gutenberg_type: Text
